@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android App Maker"
+  short_description: "从需求到签名 APK 的 Android 原生应用制作流程"
+  default_prompt: "Use $appmakerskill to design, build, test, debug on device, sign, and deliver this native Android APK."
